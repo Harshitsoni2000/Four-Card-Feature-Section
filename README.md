@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://github.com/Harshitsoni2000/Four-Card-Feature-Section)
+- [Live Site URL](https://harshitsoni2000.github.io/Four-Card-Feature-Section/)
 
 ## My process
 
